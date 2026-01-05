@@ -1,6 +1,12 @@
-Kandimalla Niharika
-CODTECH Internship
-Task 3:Security Testing for web Applications
+#Task 3-Security Testing for Web applications
+
+*Company:*CODTECH IT SOLUTIONS
+*Intern Name:*Kandimalla Niharika
+*Intern Id:*CTIS2057
+*Domain:*Software Testing
+*Duration:*4 Weeks
+*Mentor:*Neela Santosh
+
 
 
 PROJECT TITLE:
