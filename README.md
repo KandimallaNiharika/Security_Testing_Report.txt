@@ -49,3 +49,8 @@ Appropriate mitigation strategies have been documented in the security report.
 DISCLAIMER:
 This testing was conducted only for educational purposes on a
 legally permitted demo application.
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e46f1bbe-942e-4203-bef3-4c6ea5089ccf" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9830b31-f833-4dd5-af12-063afdfbe8ab" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/023fc980-6236-49d8-8d00-8ad3ac95b508" />
